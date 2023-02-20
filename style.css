@@ -756,7 +756,7 @@ a {
 
 @media (max-width: 560px) {
   body {
-    width: 560px;
+    max-width: 560px;
   }
 
   .header {
